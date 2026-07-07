@@ -26,16 +26,7 @@ DevAlpha-Internship-Projects/
 └── README.md
 ```
 
-Each project folder contains:
 
-- Source code
-- Jupyter Notebook
-- Project documentation
-- Report
-- Dataset (where applicable)
-- Output files
-
----
 
 # Internship Projects
 
