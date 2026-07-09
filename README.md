@@ -1,4 +1,4 @@
-# DevAlpha Technologies – Data Science Internship Projects
+# DevAlpha Technologies – Data Science Internship Projects 
 
 > **Note:** Please consider only the project folders in this repository. Files outside these folders are not part of the internship submissions and can be ignored.
 
